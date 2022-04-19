@@ -1,2 +1,2 @@
-# ButOlga.github.io
+# butolga.github.io
 Мой первый сайт
